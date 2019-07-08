@@ -1,1 +1,1 @@
-# cinema 
+# Cinema project using Spring Boot
